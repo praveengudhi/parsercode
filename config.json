@@ -1,0 +1,11 @@
+{
+  "debug_mode": "true",
+  "host": "test.com",
+  "log_file_path": "/tmp/logfile.log",
+  "send_notifications": "true",
+  "server_id": 55331,
+  "server_load_alarm": 2.5,
+  "test_mode": "true",
+  "user": "user",
+  "verbose": "true"
+}
