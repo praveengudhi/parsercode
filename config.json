@@ -1,11 +1,12 @@
 {
-  "debug_mode": "true",
+  "comment": "# Comment can appear here as well",
   "host": "test.com",
-  "log_file_path": "/tmp/logfile.log",
-  "send_notifications": "true",
   "server_id": 55331,
   "server_load_alarm": 2.5,
-  "test_mode": "true",
   "user": "user",
-  "verbose": "true"
+  "verbose": "true",
+  "test_mode": "true",
+  "debug_mode": "true",
+  "log_file_path": "/tmp/logfile.log",
+  "send_notifications": "true"
 }
