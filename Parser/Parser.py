@@ -47,9 +47,7 @@ class parser(object):
                         elif returnkey == 'digits':
                             self.dictobject.update({key:int(val)})
                         elif returnkey == 'decimals':
-                            self.dictobject.update({key:float(val)})
-
-            print("dict", self.dictobject)
+                            self.dictobject.update({key:float(val)})           
             with open(config_json, 'w') as fp:
                 json.dump(self.dictobject, fp,  indent=2)
                 
