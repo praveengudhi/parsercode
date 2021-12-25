@@ -1,5 +1,5 @@
 import json
-# Parser class to sear
+# Class to parse the configuration file
 
 class parser(object):
     # Funtion for Seacrch  Key and Values from  Dictionary
