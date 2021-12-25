@@ -3,8 +3,8 @@ Text Parsing for Configuration file
 
 Execution
 
-git clone https://github.com/praveengudhi/parsercode.git
+1. git clone https://github.com/praveengudhi/parsercode.git
 
-cd parsercode
+2. cd parsercode
 
-python callparse.py config.ini config.json
+3. python callparse.py config.ini config.json
